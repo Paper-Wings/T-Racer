@@ -29,7 +29,7 @@ Inspired by WhiteWings Plane 304 - Thrasher
 
 ### Printing
 Either:
-* Download the Release file ([Latest Release]()) in the paper size you need OR
+* Download the Release file ([Latest Release](https://github.com/Paper-Wings/T-Racer/releases/latest)) in the paper size you need OR
 * Place Parts and Tools using vector art program (Inkscape, Illustrator, CorelDRAW, etc)
   * If a larger or smaller model is wanted, scale all parts and tools equally
 
