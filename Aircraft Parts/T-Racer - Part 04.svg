@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Aircraft_Parts" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="578.27px" height="79.37px" viewBox="0 0 578.27 79.37" enable-background="new 0 0 578.27 79.37"
+	 xml:space="preserve">
+<g id="_x33_">
+	<g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M333.352,61.317l-1.184,14.6H211.569
+				l-0.728-14.6c-8.889,0-41.96,0-48.803,0c-36.017,0-67.223-20.522-70.373-14.572c-1.637,3.093,11.426,9.423,7.458,11.824
+				c-6.912,4.184-29.659-5.293-38.589-7.104c-9.102-1.845-23.254-2.871-32.454-4.136C18.542,46.019,4.354,42.38,4.354,30.738
+				c0-11.813,12.37-15.098,25.622-17.108C67.964,7.866,183.86,3.453,183.86,3.453c26.981,12.497,105.274,23.997,136.081,26.81
+				c66.883,6.105,253.973-14.406,253.973-14.406l-0.337,11.472C573.577,27.328,360.268,61.317,333.352,61.317z"/>
+			<g>
+				<line fill="#FFFFFF" x1="210.842" y1="61.317" x2="333.352" y2="61.317"/>
+				<g>
+					
+						<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="210.842" y1="61.317" x2="216.842" y2="61.317"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="11.6326,5.8163" x1="222.658" y1="61.317" x2="324.443" y2="61.317"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="327.352" y1="61.317" x2="333.352" y2="61.317"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<line fill="#FFFFFF" x1="302.526" y1="54.453" x2="302.526" y2="59.546"/>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="12,6" x1="302.526" y1="54.453" x2="302.526" y2="56.722"/>
+				<g>
+					<polygon points="302.526,59.546 300.9,55.566 302.526,56.511 304.152,55.566 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
